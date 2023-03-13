@@ -1,1 +1,4 @@
 this is my first text file for practicing GIT
+this is my first text file for practicing GIT
+this is my first text file for practicing GIT
+this is my first text file for practicing GIT
